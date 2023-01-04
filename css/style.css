@@ -225,7 +225,7 @@ header.sticky{
 	color: var(--second-color);
 }
 .thum:hover{
-	filter: brightness(100%) hue-rotate(45deg);
+	filter: brightness(100%);
 	transform: scale(1.04);
 }
 
@@ -265,7 +265,7 @@ header.sticky{
 	letter-spacing: 2px;
 }
 .col-content img:hover{
-	filter: brightness(100%) hue-rotate(45deg);
+	filter: brightness(100%);
 	transform: scale(1.04);
 	cursor: pointer;
 }
